@@ -1,0 +1,17 @@
+{
+  "name": "logger-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "logs.js",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "node-args-parser": "0.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord"
+  ],
+  "author": "DanilMirov"
+}
